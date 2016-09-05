@@ -307,7 +307,7 @@ a.no-decoration:active {
 }
 .indicator,
 .indicator-right {
-  background: none;
+  background: red;
   font-size: 12px;
   vertical-align: middle;
   font-weight: bold;
