@@ -35,6 +35,8 @@ body {
 {% if theme.apply_text_styles %}
 a {
 	color: {{ theme.link_color }};
+	
+
 }
 
 a:hover,
