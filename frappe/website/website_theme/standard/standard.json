@@ -1,7 +1,7 @@
 {
  "apply_style": 1, 
  "apply_text_styles": 1, 
- "background_color": "#FFFFFF", 
+ "background_color": "#000000", 
  "bootstrap": "", 
  "creation": "2015-02-19 13:37:33.925909", 
  "css": "", 
@@ -10,12 +10,12 @@
  "doctype": "Website Theme", 
  "font_size": "17px", 
  "footer_color": "#D9235F", 
- "footer_text_color": "#000000", 
+ "footer_text_color": "#DBE302", 
  "heading_style": "UPPERCASE", 
  "heading_webfont": "", 
  "idx": 17, 
  "link_color": "#000000", 
- "modified": "2016-10-01 15:42:53.867501", 
+ "modified": "2016-10-02 13:22:31.800514", 
  "modified_by": "Administrator", 
  "module": "Website", 
  "name": "Standard", 
@@ -23,6 +23,6 @@
  "text_color": "#FAFAFA", 
  "text_webfont": "", 
  "theme": "Standard", 
- "top_bar_color": "#15960C", 
+ "top_bar_color": "#967968", 
  "top_bar_text_color": "#FAEBD7"
 }
