@@ -1176,7 +1176,7 @@ h6,
   font-family: inherit;
   font-weight: 500;
   line-height: 1.3em;
-  color: inherit;
+  color: #FA0818;
 }
 h1 small,
 h2 small,
@@ -1212,7 +1212,7 @@ h2,
 .h2,
 h3,
 .h3 {
-  margin-top: 20px;
+  margin-top: 0px;
   margin-bottom: 10px;
 }
 h1 small,
@@ -1254,7 +1254,7 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 24px;
+  font-size: 50px;
 }
 h2,
 .h2 {
@@ -1566,7 +1566,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  background-image:url(/files/black_wall_free_texture_by_pshoudini-d5lkrgk.jpg);
+  background-color: #000000;
 }
 .containerHeader {
   padding-right: 15px;
